@@ -7,7 +7,7 @@ Syntax file and minimal `ftdetect` for Linux logrotate scripts.
 Use your favourite plugin manager.
 
 If you use [`vim-plug`](https://github.com/junegunn/vim-plug) like me,
-add `Plug 'moon-musick/vim-logrotate` to your `vimrc`.
+add `Plug 'moon-musick/vim-logrotate'` to your `vimrc`.
 
 ## TODO:
 
