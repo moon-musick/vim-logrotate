@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead /etc/logrotate.d/* set filetype=logrotate
+autocmd BufNewFile,BufRead /etc/logrotate.[dc]* set filetype=logrotate
